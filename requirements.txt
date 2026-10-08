@@ -1,0 +1,4 @@
+# No third-party dependencies.
+# This project uses only the Python 3.10+ standard library on purpose:
+# zero install friction, easy to review, easy to run anywhere.
+# (If you add a dependency later, pin it here, e.g.  requests==2.32.3)
