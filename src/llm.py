@@ -91,7 +91,8 @@ class MockLLMProvider(LLMProvider):
                            "tracking", "delivery status", "when will",
                            "has my order", "order #", "my package"), 0.93),
         ("faq", ("how do", "how can", "what is", "do you ship", "shipping time",
-                  "return policy", "payment method", "opening hours",
+                  "shipping", "delivery", "how long", "return policy",
+                  "payment method", "opening hours",
                   "where are you located"), 0.85),
     )
 
