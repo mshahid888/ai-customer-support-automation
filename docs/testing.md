@@ -2,7 +2,7 @@
 
 ## How to run
 
-From the project root, with Python 3.10+ (standard library only — nothing to
+From the project root, with Python 3.9+ (standard library only — nothing to
 install):
 
 ```bash

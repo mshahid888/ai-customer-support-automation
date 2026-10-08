@@ -156,7 +156,7 @@ Answer:   "I'd be happy to check that for you! Could you please share your
 ## Technologies used
 
 - **n8n** — workflow orchestration (webhook, branching, HTTP calls)
-- **Python 3.10+ (standard library only)** — backend API and business logic,
+- **Python 3.9+ (standard library only)** — backend API and business logic,
   zero dependencies
 - **REST APIs / webhooks / JSON** — all service communication
 - **LLM APIs** — intent classification via a swappable provider
@@ -166,7 +166,7 @@ Answer:   "I'd be happy to check that for you! Could you please share your
 
 ## Setup instructions
 
-**Requirements:** Python 3.10+, and n8n (only needed for the workflow part —
+**Requirements:** Python 3.9+, and n8n (only needed for the workflow part —
 the backend and tests run without it).
 
 ```bash
